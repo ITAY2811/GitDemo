@@ -1,0 +1,29 @@
+[33mcommit 4c0c7c871be6bd7bd784767d54e1332cff10d660[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-1[m[33m)[m
+Author: Itay999 <eitai999@gmail.com>
+Date:   Mon May 23 12:06:57 2022 +0300
+
+    Finished feature 1
+
+[33mcommit 1549a7898d5e5fdcac35e9eda870253d3085afc5[m
+Author: Itay999 <eitai999@gmail.com>
+Date:   Mon May 23 11:55:13 2022 +0300
+
+    phase 1 in feature 1
+
+[33mcommit 2eb1431f1c1555c8167ce61cd1b6137e35d02cd8[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Itay999 <eitai999@gmail.com>
+Date:   Mon May 23 11:19:05 2022 +0300
+
+    (commit 3)
+
+[33mcommit ebb0eade5649190a5dd51507a6f44b1bade41454[m
+Author: Itay999 <eitai999@gmail.com>
+Date:   Mon May 23 11:16:41 2022 +0300
+
+    (commit 2)
+
+[33mcommit 23f8d716c7f65a818ceda461fee128ac406dffb0[m
+Author: Itay999 <eitai999@gmail.com>
+Date:   Mon May 23 11:15:06 2022 +0300
+
+    Clean (commit 1)
